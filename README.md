@@ -2,7 +2,7 @@
 <img width="320" height="320" alt="VEGGI3" src="https://github.com/user-attachments/assets/99e7d910-435c-4c00-b552-bfe3ab34002d"/>
 </div>
 
-<h1 align="center">Hi there, I'm Matheus (Veggi3) 👋</h1>
+<h1 align="center">Hi there, I'm Matheus (VeGGi3) 👋</h1>
 <h3 align="center">Game Developer | MSc Student in Space Science at ITA</h3>
 
 <p align="center">
