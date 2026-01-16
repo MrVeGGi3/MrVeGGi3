@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="LINK_DA_SUA_IMAGEM_DE_BANNER_AQUI.png" width="100%" />
-</div>
+
+<img width="320" height="320" alt="VEGGI3" src="https://github.com/user-attachments/assets/99e7d910-435c-4c00-b552-bfe3ab34002d" />
 
 <h1 align="center">Hi there, I'm Matheus (Veggi3) 👋</h1>
 <h3 align="center">Game Developer | MSc Student in Space Science at ITA</h3>
