@@ -1,5 +1,5 @@
 <div align="center">
-< img width="320" height="320" alt="VEGGI3" src="https://github.com/user-attachments/assets/99e7d910-435c-4c00-b552-bfe3ab34002d" />
+<img width="320" height="320" alt="VEGGI3" src="https://github.com/user-attachments/assets/99e7d910-435c-4c00-b552-bfe3ab34002d"/>
 </div>
 
 <h1 align="center">Hi there, I'm Matheus (Veggi3) 👋</h1>
