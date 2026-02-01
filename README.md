@@ -62,7 +62,7 @@ My background in **Mechatronics** and **Lean Six Sigma (Yellow Belt)** drives me
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Immunition** | A 3D FPS about microbiology. Features complex AI State Machines and optimized object pooling. | Godot 4, GDScript |
-| **HypersonicsLab** | Hypersonic flow simulation using Rayleigh Flow equations. | Python, NumPy |
+| **HypersonicsLab** | Hypersonic flow simulation using Rayleigh Flow equations. | Godot 4, GDSCript |
 | **PokeQuiz** | A .NET-based quiz application consuming external APIs. | C#, .NET |
 
 <p align="center">
