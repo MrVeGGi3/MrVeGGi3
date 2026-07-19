@@ -19,19 +19,22 @@
   <a href="mailto:mveras1897@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a href="https://ko-fi.com/veggi3" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a Game Developer and Software Engineer based in Brazil, currently pursuing a Master's at **ITA (Instituto Tecnológico de Aeronáutica)** focused on Hypersonic Vehicles Simulations.
+Game developer and MSc student at **ITA (Instituto Tecnológico de Aeronáutica)**, where I research hypersonic vehicle simulation.
 
-My background in **Mechatronics** and **Lean Six Sigma (Yellow Belt)** drives me to write optimized, scalable, and mathematically precise code.
+I like problems where the math has to be right and the frame still has to render in 16ms — orbital mechanics, flow analysis, shaders.
 
-* 🔭 I’m currently working on: **VR Physics Simulations & Hypersonic Flow Analysis**.
-* 🌱 I’m currently learning: **Advanced Shaders in Godot** & **Orbital Mechanics**.
-* ⚡ Fun fact: I reduced management analysis time by **60%** in my previous role using process automation.
+* 🔭 Working on: **NanoOrbit**, an educational orbit simulator for VR and mobile
+* 🌱 Learning: advanced shaders in Godot & n-body methods
+* 🛠️ Mostly writing: Godot, Julia, Python, C#
 
 ---
 
@@ -61,9 +64,34 @@ My background in **Mechatronics** and **Lean Six Sigma (Yellow Belt)** drives me
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Immunition** | A 3D FPS about microbiology. Features complex AI State Machines and optimized object pooling. | Godot 4, GDScript |
-| **HypersonicsLab** | Hypersonic flow simulation using Rayleigh Flow equations. | Godot 4, GDSCript |
-| **PokeQuiz** | A .NET-based quiz application consuming external APIs. | C#, .NET |
+| **NanoOrbit** 🛰️ | Educational satellite orbit simulator for VR, mobile and desktop. Teaches the differences between orbital models and notations interactively — with the math validated against an independent Julia implementation. | Godot 4.6, C#, Julia |
+| [**vsl**](https://github.com/MrVeGGi3/vsl) | Virtual Simulation Lab — aerospace mission analysis and orbital simulation. | Julia |
+| [**HypersonicsLab**](https://github.com/MrVeGGi3/HypersonicsLab) | Interactive lab for hypersonic flow simulation using Rayleigh Flow equations. | Godot 4, GDScript |
+| [**Games**](https://veggi3.itch.io) | Visual novels, VR prototypes, game jam entries and demakes — the full collection lives on itch.io. | Godot, Unity |
+
+<details>
+<summary><b>📼 Older Work</b></summary>
+
+<br>
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**Immunition**](https://github.com/MrVeGGi3/Immunition) | A 3D FPS about microbiology, built around AI state machines and object pooling. A [2024 edition](https://github.com/MrVeGGi3/Immunition-2.0.-2024-) followed. | Godot, GDScript |
+| [**PokeQuiz**](https://github.com/MrVeGGi3/PokeQuiz) | A .NET quiz application consuming external APIs. | C#, .NET |
+
+</details>
+
+---
+
+### ☕ Support My Work
+
+Most of what I build — games, physics simulations, and open source tools — is made in my free time and shared for free. If any of it helped or entertained you, consider buying me a coffee!
+
+<p align="center">
+  <a href="https://ko-fi.com/veggi3" target="_blank">
+    <img src="https://img.shields.io/badge/Support_me_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <i>Let's build something physics-defying! 🌌</i>
